@@ -7,7 +7,7 @@ This schedule maps out what we are covering in class each week and what work we 
 
 If you want to know what is due for next class, [check here]({{ site.baseurl }}/due).
 
-### August 29 &mdash; Week 1
+### August 27 &mdash; Week 1
 In our first week we will review the syllabus, get our programs set up, go through some Figma tips, and test our HTML and CSS knowledge.
 
 #### Lessons
@@ -25,7 +25,7 @@ In our first week we will review the syllabus, get our programs set up, go throu
 
 ---
 
-### September 5 &mdash; Week 2
+### September 3 &mdash; Week 2
 The ability to create and interactive prototype of a website is an incredibly powerful tool for a designer. It is also important for designers to understand accessibility as it relates to the web. We will cover both these topics this week along with reviewing HTML basics.
 
 #### Lessons
@@ -53,7 +53,7 @@ The ability to create and interactive prototype of a website is an incredibly po
 
 ---
 
-### September 12 &mdash; Week 3
+### September 10 &mdash; Week 3
 We will continue exploring the possibilities of prototyping in Figma and continue reviewing HTML and CSS basics.
 
 #### Lessons
@@ -72,7 +72,7 @@ We will continue exploring the possibilities of prototyping in Figma and continu
 
 ---
 
-### September 19 &mdash; Week 4
+### September 17 &mdash; Week 4
 A website can't exist without links and this week we will refresh our memories of coding and styling links. We will also talk about responsive design and how responsive design is implemented in code through media queries.
 
 #### Lessons
@@ -90,7 +90,7 @@ A website can't exist without links and this week we will refresh our memories o
 
 ---
 
-### September 26 &mdash; Week 5
+### September 24 &mdash; Week 5
 Continuing on the HTML and CSS path we are talking about web typography and forms this week. We are also reviewing the CSS box model.
 
 #### Lessons
@@ -113,7 +113,7 @@ Continuing on the HTML and CSS path we are talking about web typography and form
 
 ---
 
-### October 3 &mdash; Week 6
+### October 1 &mdash; Week 6
 A general review on some coding and design topics covered in previous weeks.
 
 #### Starting
@@ -127,12 +127,12 @@ A general review on some coding and design topics covered in previous weeks.
 
 ---
 
-### October 10 &mdash; Week 7
+### October 8 &mdash; Week 7
 No class this week. Use it as a catch up week to make sure you are all caught up on projects and exercises.
 
 ---
 
-### October 17 &mdash; Week 8
+### October 15 &mdash; Week 8
 This week we will focus on wireframes.
 
 #### Lessons
@@ -150,7 +150,7 @@ This week we will focus on wireframes.
 
 ---
 
-### October 24 &mdash; Week 9
+### October 22 &mdash; Week 9
 People being able to use the sites we design is an important consideration while designing. This week we will start our conversation on usability for the web.
 
 #### Lessons
@@ -167,7 +167,7 @@ People being able to use the sites we design is an important consideration while
 
 ---
 
-### October 31 &mdash; Week 10
+### October 29 &mdash; Week 10
 A continuation of our discussion on usability.
 
 #### Lessons
@@ -178,7 +178,7 @@ A continuation of our discussion on usability.
 
 ---
 
-### November 7 &mdash; Week 11
+### November 5 &mdash; Week 11
 In class group meetings to review Project 2.
 
 #### Digital References
@@ -186,7 +186,7 @@ In class group meetings to review Project 2.
 
 ---
 
-### November 14 &mdash; Week 12
+### November 12 &mdash; Week 12
 In class workshop and critiques.
 
 #### Lessons
@@ -200,7 +200,7 @@ In class workshop and critiques.
 
 ---
 
-### November 21 &mdash; Week 13
+### November 19 &mdash; Week 13
 Continuing our in class workshop and critiques.
 
 #### Digital Resources
@@ -209,15 +209,15 @@ Continuing our in class workshop and critiques.
 
 ---
 
-### November 28 &mdash; Week 14
+### November 26 &mdash; Week 14
 No class, Thanksgiving break.
 
 ---
 
-### December 5 &mdash; Week 15
+### December 3 &mdash; Week 15
 Early due date and review of work.
 
 ---
 
-### December 12 &mdash; Week 16
+### December 10 &mdash; Week 16
 Everything due.
