@@ -1,0 +1,24 @@
+I"�<h4 id="exercise-7-landing-page">Exercise 7: Landing Page</h4>
+<p>Create a landing page for a category from this year’s GRAMMY Awards <a href="https://www.grammy.com/awards/66th-annual-grammy-awards-2023">List Here</a>. The page will be 1440px by 796px which means it will not scroll. The page should use a grid and any animation or interaction you want to include should be prototyped. There are multiple levels of typographic information here so focus on the hierarchy.</p>
+
+<p>The contents of the page will be:</p>
+<ul>
+  <li>The 66th Grammy Awards</li>
+  <li>Crypto.com Arena in Los Angeles</li>
+  <li>Sunday, February 4, 2024</li>
+  <li>Category name</li>
+  <li>Winner and nominees from the category including all the information listed in the category on the site</li>
+  <li>One button that says something like “other categories”</li>
+</ul>
+
+<h5 id="technical-requirements">Technical Requirements</h5>
+<ul>
+  <li>1440px by 796px</li>
+  <li>Uses a grid (columns)</li>
+  <li>All content in above list included</li>
+  <li>Does not use any branding elements (logos, type, colors, graphics) from the official GRAMMY website</li>
+  <li>Hover states for button</li>
+</ul>
+
+<p><span class="due">Due Thursday, October 17 by 10:30am ET</span></p>
+:ET

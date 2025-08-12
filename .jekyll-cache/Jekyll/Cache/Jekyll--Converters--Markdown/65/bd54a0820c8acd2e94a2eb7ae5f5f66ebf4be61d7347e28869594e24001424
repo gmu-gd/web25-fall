@@ -1,0 +1,14 @@
+I"#<h4 id="exercise-6-form-redesign">Exercise 6: Form Redesign</h4>
+<p>Redesign the Craigslist “Post an Ad” form - <a href="https://post.craigslist.org/">post.craigslist.org/</a> (washington, DC &gt;northern virginia &gt;for sale &gt; free stuff). You only have to redesign the “Free Stuff” part of the form but if you want to design and prototype the previous form pages you can. You can edit the content but all the collected information must remain the same. Questions could also be edited for clarity and/or length.</p>
+
+<p>You are only designing the form, not coding it, and it should be designed in Figma at 1440px wide. It can be on a single page or split up across multiple pages. Interactive features should be designed and prototyped.</p>
+
+<h5 id="technical-requirements">Technical Requirements</h5>
+<ul>
+  <li>1440px wide by however tall</li>
+  <li>All the same information is collected</li>
+  <li>States for form elements are designed and some are prototyped</li>
+</ul>
+
+<p><span class="due">Due Thursday, October 03 by 10:30am ET</span></p>
+:ET

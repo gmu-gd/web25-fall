@@ -1,0 +1,36 @@
+I"w	<h3 id="description">Description</h3>
+<p>Design a responsive, four page site for a fictional retail company. You will create the company name and branding prior as well as curate a selection of goods the company sells prior to the design of the site. The site must have:</p>
+<ul>
+  <li>A home page – Introduces the company and the kinds of goods it sells</li>
+  <li>An inventory page – Shows all or a selection of the items available for purchase. The page should include ways to filter the products.</li>
+  <li>A product page – Shows a specific item that has at least 2 different variations for the customer select. Examples of variations could be color and size if it was clothing, material and color if it was furniture.</li>
+  <li>A fourth page that you decide on – Options could be a cart, rewards program, customer login page, about page, etc.). The content of this page will depend on the kind of page you select.</li>
+  <li>A footer – Each page should have a footer that provides relevant information about the company.</li>
+  <li>A navigation – Each page should have navigation to get you from one page to the next.</li>
+</ul>
+
+<h4 id="requirements">Requirements</h4>
+<ul>
+  <li>At least 4 pages</li>
+  <li>Navigation</li>
+  <li>Mobile (320px) interactive prototype</li>
+  <li>Tablet (768px) designs</li>
+  <li>Desktop (1440px) interactive prototype</li>
+  <li>Brief style guide that includes fonts, colors, and any graphic elements or treatments</li>
+</ul>
+
+<h3 id="checkpoints">Checkpoints</h3>
+<ul>
+  <li>September 26: Start</li>
+  <li>October 3: 3 proposed companies with potential products</li>
+  <li>October 10: 10 logo options, colors, fonts, images, items, and inspiration for brand</li>
+  <li>October 17: Style guide and wireframes for the home page at all sizes (mobile, tablet, desktop)</li>
+  <li>October 24: First draft of home page (all sizes), components and styles in XD</li>
+  <li>October 31: Further refined home page (all sizes), first draft of inventory page (all sizes)</li>
+  <li>November 7: Further refined home and inventory pages (all sizes), first draft of product page (all sizes)</li>
+  <li>November 14: First draft of fourth page (all sizes), initial prototype of all pages at desktop size</li>
+  <li>November 21: Refined prototype of full site at desktop size, initial mobile size prototype</li>
+  <li>November 28: Thanksgiving Break</li>
+  <li>December 5: Due</li>
+</ul>
+:ET

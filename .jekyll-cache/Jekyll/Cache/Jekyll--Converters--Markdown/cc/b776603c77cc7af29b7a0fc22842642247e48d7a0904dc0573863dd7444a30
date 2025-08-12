@@ -1,0 +1,12 @@
+I"]<h4 id="exercise-2-linking-in-figma">Exercise 2: Linking in Figma</h4>
+<p>Link the artboards of your e1 file together by adding some kind of navigation. How you link them together is up to you but the minimum is 1 should go to 2, 2 should go to 3, 3 should go to 4, 4 should go to the new 5th page and 5 should go back to 1. This is also a chance to update the design if you need to either to improve it or to adjust for the navigation elements.</p>
+
+<h5 id="technical-requirements">Technical Requirements</h5>
+<ul>
+  <li>Add an additional artboard as number 5 that tells the typeface(s) and foundry(s) that designed it</li>
+  <li>Each artboard from e1 linked to the next, with the last going back to the first</li>
+  <li>Link to a new working prototype on your class website</li>
+</ul>
+
+<p><span class="due">Due Thursday, September 12 by 10:30am ET</span></p>
+:ET
