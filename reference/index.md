@@ -3,8 +3,8 @@ layout: interior
 title: Reference
 ---
 ### Class Links
-* [Github Repository](https://github.com/mmcdermott18/avt415-fa24)
-* [Live Repository](https://mmcdermott18.github.io/avt415-fa24/)
+* [Github Repository](https://github.com/mmcdermott18/avt415-fa25)
+* [Live Repository](https://mmcdermott18.github.io/avt415-fa25/)
 
 ### Books
 * [Learning Web Design](https://www.learningwebdesign.com/)
