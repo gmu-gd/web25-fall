@@ -81,8 +81,7 @@ A website can't exist without links and this week we will refresh our memories o
 * Media Queries
 
 #### Starting
-* E4: [Birthday Card]({{ site.baseurl }}/projects#e4)
-* E5: [Linking Links]({{ site.baseurl }}/projects#e5)
+* E4: [Landing Page]({{ site.baseurl }}/projects#e4)
 
 #### Digital References
 * _Interneting is Hard:_ [Links and Images](https://internetingishard.netlify.app/html-and-css/links-and-images/)
@@ -95,11 +94,10 @@ Continuing on the HTML and CSS path we are talking about web typography and form
 
 #### Lessons
 * Web Typography
-* Forms
 * CSS Box Model
 
 #### Starting
-* E6: [Form Redesign]({{ site.baseurl }}/projects#e6)
+* E5: [Make it Responsive]({{ site.baseurl }}/projects#e5)
 
 #### Digital References
 * _Interneting is Hard:_ [Web Typography](https://internetingishard.netlify.app/html-and-css/web-typography/)
@@ -114,10 +112,13 @@ Continuing on the HTML and CSS path we are talking about web typography and form
 ---
 
 ### October 1 &mdash; Week 6
-A general review on some coding and design topics covered in previous weeks.
+A look at the design of web forms.
+
+#### Lessons
+* Forms
 
 #### Starting
-* E7: [Landing Page]({{ site.baseurl }}/projects#e7)
+* E6: [Form Redesign]({{ site.baseurl }}/projects#e6)
 * P2: [For Sale]({{ site.baseurl }}/projects/p2)
 
 #### Digital References
@@ -128,7 +129,10 @@ A general review on some coding and design topics covered in previous weeks.
 ---
 
 ### October 8 &mdash; Week 7
-No class this week. Use it as a catch up week to make sure you are all caught up on projects and exercises.
+Catch up week
+
+#### Starting
+* E7: [Halloween Something]({{ site.baseurl }}/projects#e7)
 
 ---
 
