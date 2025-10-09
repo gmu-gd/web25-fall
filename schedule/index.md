@@ -129,21 +129,10 @@ A look at the design of web forms.
 ---
 
 ### October 8 &mdash; Week 7
-Catch up week
+Wireframes!
 
 #### Starting
-* E7: [Halloween Something]({{ site.baseurl }}/projects#e7)
-
----
-
-### October 15 &mdash; Week 8
-This week we will focus on wireframes.
-
-#### Lessons
-* Wireframes
-
-#### Starting
-* E8: [Reverse Wireframe]({{ site.baseurl }}/projects#e8)
+* E7: [Reverse Wireframe]({{ site.baseurl }}/projects#e7)
 
 #### Digital References
 * _usability.gov:_ [Wireframing](https://www.usability.gov/how-to-and-tools/methods/wireframing.html)
@@ -151,6 +140,13 @@ This week we will focus on wireframes.
 * _Figma:_ [How to Wireframe](https://www.figma.com/blog/how-to-wireframe/)
 * _Adobe:_ [Everything You Need to Know About Wireframe Design and Prototypes](https://xd.adobe.com/ideas/process/wireframing/wireframe-design-definition/)
 
+---
+
+### October 15 &mdash; Week 8
+CSS Drawing!
+
+#### Starting
+* E8: [Halloween Drawing]({{ site.baseurl }}/projects#e8)
 
 ---
 
