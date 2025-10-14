@@ -143,21 +143,13 @@ Wireframes!
 ---
 
 ### October 15 &mdash; Week 8
-CSS Drawing!
-
-#### Starting
-* E8: [Halloween Drawing]({{ site.baseurl }}/projects#e8)
-
----
-
-### October 22 &mdash; Week 9
 People being able to use the sites we design is an important consideration while designing. This week we will start our conversation on usability for the web.
 
 #### Lessons
 * 7.1: Usability 1
 
 #### Starting
-* E9: [Not So Usable]({{ site.baseurl }}/projects#e9)
+* E8: [Not So Usable]({{ site.baseurl }}/projects#e8)
 
 #### Digital References
 * _Steve Schoger:_ [Little UI Details](https://twitter.com/i/events/880688233641848832)
@@ -167,16 +159,25 @@ People being able to use the sites we design is an important consideration while
 
 ---
 
-### October 29 &mdash; Week 10
+### October 22 &mdash; Week 9
 A continuation of our discussion on usability.
 
 #### Lessons
 * 8.1: Usability 2
 
 #### Starting
-* E10: [10 Usability Heuristics]({{ site.baseurl }}/projects#e10)
+* E9: [5 Usability Heuristics]({{ site.baseurl }}/projects#e9)
 
 ---
+
+### October 29 &mdash; Week 10
+CSS Drawing!
+
+#### Starting
+* E10: [Halloween Drawing]({{ site.baseurl }}/projects#e8)
+
+---
+
 
 ### November 5 &mdash; Week 11
 In class group meetings to review Project 2.
