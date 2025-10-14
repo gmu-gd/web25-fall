@@ -10,19 +10,19 @@
       {% if post.day == "tuesday" %}
         <article class="home-due">
           {{ post.content }}
-          <span class="due">All due {% assign seconds = 2 | times: 24 | times: 60 | times: 60 %}{{ post.date | date: "%s" | plus: seconds | date: "%B %d" }} at 10:30am</span>
+          <span class="due">All due {% assign seconds = 2 | times: 24 | times: 60 | times: 60 %}{{ post.date | date: "%s" | plus: seconds | date: "%B %d" }} at 1:30pm</span>
         </article>
       {% endif %}
       {% if post.day == "thursday" %}
         <article class="home-due">
           {{ post.content }}
-          <span class="due">All due {% assign seconds = 5 | times: 24 | times: 60 | times: 60 %}{{ post.date | date: "%s" | plus: seconds | date: "%B %d" }} at 10:30am</span>
+          <span class="due">All due {% assign seconds = 5 | times: 24 | times: 60 | times: 60 %}{{ post.date | date: "%s" | plus: seconds | date: "%B %d" }} at 1:30pm</span>
         </article>
       {% endif %}
       {% if post.day == "week" %}
         <article class="home-due">
           {{ post.content }}
-          <span class="due">All due {% assign seconds = 7 | times: 24 | times: 60 | times: 60 %}{{ post.date | date: "%s" | plus: seconds | date: "%B %d" }} at 10:30am</span>
+          <span class="due">All due {% assign seconds = 7 | times: 24 | times: 60 | times: 60 %}{{ post.date | date: "%s" | plus: seconds | date: "%B %d" }} at 1:30pm</span>
         </article>
       {% endif %}
     {% endif %}
